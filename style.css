@@ -107,6 +107,8 @@ a:hover {
   mix-blend-mode: difference;
 }
 
+.float-right {padding-left: 50px;}
+
 .card-3d-wrap {
   position: relative;
   width: 340px;
